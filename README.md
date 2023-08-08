@@ -6,7 +6,7 @@
 
 >### Input:
 >
->p, principal amount
+>p, principal amount</br>
 >t, time period in years
 >r, annual rate of interest
 >   
